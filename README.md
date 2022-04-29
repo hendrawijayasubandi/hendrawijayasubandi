@@ -13,7 +13,7 @@ Saya ketertarikan di bidang Web dan Android Developer.
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hendra-wijaya-subandi-835501221/) ku ya.
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> -->
-<img style="border-radius: 10px !important;" align="right" height="100%" alt="" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<!-- <img style="border-radius: 10px !important;" align="right" height="100%" alt="" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/> -->
 
 ### Bahasa yang kuasai:
 
@@ -26,6 +26,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
     <img height="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img height="35" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </div>
+
+### Statistik Github
 
 <p align="left">
 <a href="https://github.com/hendrawijayasubandi">
