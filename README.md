@@ -1,11 +1,6 @@
 # Halo semua! [Hendra](https://www.linkedin.com/in/hendra-wijaya-subandi-835501221/) disini!
 
 ### 
-
-<a href="https://www.linkedin.com/in/hendra-wijaya-subandi-835501221/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="https://www.instagram.com/han__hyung/" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href="mailto:hendrawijayasubandi@gmail.com" target="_blank"><img height="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
-
 Perkenalkan nama saya **Hendra Wijaya Subandi**.
 Saya seorang **Mahasiswa** di [Politeknik Piksi Ganesha](https://www.piksi.ac.id/).
 Tak hanya Mahasiswa, Saya sebagai **Siswa** di [Dicoding Academy](htts://dicoding.com/) bagian Fullstack Developer.
