@@ -27,8 +27,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
     <img height="35" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </div>
 
-### Statistik Github
-
+### Github Statistic
 <p align="left">
 <a href="https://github.com/hendrawijayasubandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hendrawijayasubandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
