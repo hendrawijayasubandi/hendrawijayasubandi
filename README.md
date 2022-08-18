@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m student at **[Piksi Ganesha Polytechnic](https://www.piksi.ac.id)** & **[Dicoding Academy](https://dicoding.com)**
-
+- 💻 I'm participant at **[Indosat Ooredoo Hutchison Digital Camp](https://https://idcamp.ioh.co.id/)**
 - 🌱 I’m learning about **Web & Android Developer**
 
 ## 🚀 Languages and Tools:
