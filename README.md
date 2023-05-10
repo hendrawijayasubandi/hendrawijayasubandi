@@ -42,14 +42,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hendrawijayasubandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hendrawijayasubandi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<br/>
 <br/>
 
 ## Connect with me:
