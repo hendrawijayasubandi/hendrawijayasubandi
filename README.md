@@ -2,7 +2,7 @@
 
 - 🔭 I’m student at **[Piksi Ganesha Polytechnic](https://www.piksi.ac.id)** & **[Dicoding Academy](https://dicoding.com)**
 - 🌱 I’m learning about **Web Developer, UI/UX Design**
-- 💬 Feel free to ask me about Web Developer or UI/UX Design
+- 💬 Feel free to ask me about **Web Developer or UI/UX Design**
 - 📫 How to reach me: hendrawijayasubandi@gmail.com
 - ⚡ Fun fact: WIZ*ONE
 
