@@ -1,5 +1,9 @@
 ## 🙋‍♂️ About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"/><br><br>
+</div>
+
 - 🔭 I’m student at **[Piksi Ganesha Polytechnic](https://www.piksi.ac.id)** & **[Dicoding Academy](https://dicoding.com)**
 - 🌱 I’m learning about **Web Developer, UI/UX Design**
 - 💬 Feel free to ask me about **Web Developer or UI/UX Design**
